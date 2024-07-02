@@ -9,8 +9,7 @@ BMP280 (Optional)
 AHT20
 128x64 OLED
 ESP32 DOIT DEVKIT 30Pin
-const char* ssid     = "Zohaib’s iPhone";// Insert your network credentials
-const char* password = "12344321";
+
  ***************************************************************************/
 
 
